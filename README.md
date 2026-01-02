@@ -20,9 +20,9 @@
 
 ## 📸 Galería & UI
 
-| Dashboard Principal | Subida de Documentos | Análisis Detallado | Aprendizaje conceptos | Búsqueda de Convenios | Buscador Empleo |
+| Dashboard Principal | Subida de Documentos | Análisis Detallado | Aprendizaje conceptos | Buscador Empleo |
 |:---:|:---:|:---:|
-| ![Home](assets/screenshots/Home.png) | ![Home_2](assets/screenshots/home_graf.png) | ![Upload](assets/screenshots/upload.png) | ![Results](assets/screenshots/results.png) | ![Learn](assets/screenshots/learn.png) | ![FAQS](assets/screenshots/learn2.png) | ![Convenios](assets/screenshots/convenios.png) | ![Empleo](assets/screenshots/empleo.png) |
+| ![Home](assets/screenshots/Home.png) | ![Home_2](assets/screenshots/home_graf.png) | ![Upload](assets/screenshots/upload.png) | ![Results](assets/screenshots/results.png) | ![Learn](assets/screenshots/learn.png) | ![FAQS](assets/screenshots/learn2.png) | ![Empleo](assets/screenshots/empleo.png) |
 
 ---
 
